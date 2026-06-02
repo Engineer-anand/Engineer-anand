@@ -82,11 +82,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-anand&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=Engineer-anand&theme=github-dark&hide_border=true" />
 </div>
 
