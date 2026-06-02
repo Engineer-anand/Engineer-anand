@@ -6,7 +6,7 @@
 ### B.Tech CSE | AI + Full Stack Engineer | Open to Internships 2025
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anand-kushwaha-5a9359413/">
+<a href="https://www.linkedin.com/in/anand-kushwaha-5a9359413/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:anand.engineer.ak@gmail.com">
