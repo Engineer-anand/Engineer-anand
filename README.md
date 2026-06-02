@@ -94,7 +94,4 @@
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Engineer-anand&style=flat-square&color=58a6ff" />
-<p><i>"Building AI-powered solutions, one commit at a time."</i></p>
-</div>
+
