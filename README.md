@@ -1,15 +1,15 @@
 <!-- Profile Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Hi+👋+I'm+Anand+Singh;AI+Full+Stack+Developer;MERN+Stack+%2B+LangChain+%2B+RAG+Systems;Building+AI-Powered+Products+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Hi+👋+I'm+Anand+Kushwaha;AI+Full+Stack+Developer;MERN+Stack+%2B+LangChain+%2B+RAG+Systems;Building+AI-Powered+Products+🚀" alt="Typing SVG" />
 
 ### B.Tech CSE | AI + Full Stack Engineer | Open to Internships 2025
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anand-kushwaha-5a9359413/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:anand.engineer.ak@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://YOUR-PORTFOLIO.vercel.app">
@@ -23,8 +23,8 @@
 ## 🧑‍💻 About Me
 
 ```
-🎓 B.Tech CSE — 3rd Year (Expected 2026)
-📍 Varanasi, India
+🎓 B.Tech CSE — 3rd Year
+📍 Lucknow, India
 💡 Building AI-powered full stack applications
 🔥 Stack: MERN + LangChain + RAG + OpenAI APIs
 🚀 Currently: Building AI projects & looking for internships
