@@ -73,7 +73,7 @@
 | 🎬 **NexAnime Streaming** | Modern anime streaming platform with adaptive bitrate HLS streaming, Sub/Dub audio toggles, and client-side caching. | React 18, Vite, HLS.js, Axios, REST API | [Code](https://github.com/Engineer-anand/FULLANIMEWEBSITE) |
 | 🏢 **Multi-Tenant Task Platform** | Enterprise SaaS task management platform featuring multi-tenant organization isolation, RBAC, and team workflows. | MERN Stack, JWT Auth, REST API, Vercel | [Code](https://github.com/Engineer-anand/Multi-Tenant-Task-Management-Platform) |
 | 📚 **Bookstore MERN App** | Full-stack e-commerce book catalog with CRUD inventory, secure authentication, and responsive UI. | MongoDB, Express.js, React, Node.js | [Code](https://github.com/Engineer-anand/bookstore-mern-app) |
-| 🤖 **AI Conversational Chatbot** | Interactive AI chatbot web app featuring real-time conversational responses and message history management. | React, Node.js / FastAPI, REST APIs [Code](https://github.com/Engineer-anand/chat-bot) |
+| 🤖 **AI Conversational Chatbot** | Interactive AI chatbot web app featuring real-time conversational responses and message history management. | React, Node.js / FastAPI, REST APIs | [Code](https://github.com/Engineer-anand/chat-bot) |
 
 
 
