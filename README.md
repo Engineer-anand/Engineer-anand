@@ -77,16 +77,3 @@
 
 
 
-<!-- Fill in the () with actual URLs as you build -->
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Engineer-anand&theme=github-dark&hide_border=true" />
-</div>
-
----
-
-
