@@ -71,10 +71,10 @@
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | 🎬 **NexAnime Streaming** | Modern anime streaming platform with adaptive bitrate HLS streaming, Sub/Dub audio toggles, and client-side caching. | React 18, Vite, HLS.js, Axios, REST API | [Code](https://github.com/Engineer-anand/FULLANIMEWEBSITE) |
-| 🏢 **Multi-Tenant Task Platform** | Enterprise SaaS task management platform featuring multi-tenant organization isolation, RBAC, and team workflows. | MERN Stack, JWT Auth, REST API, Vercel | [Demo](https://multi-tenant-task-management-platform.vercel.app) · [Code](https://github.com/Engineer-anand/Multi-Tenant-Task-Management-Platform) |
-| 📚 **Bookstore MERN App** | Full-stack e-commerce book catalog with CRUD inventory, secure authentication, and responsive UI. | MongoDB, Express.js, React, Node.js | [Demo](https://book-store-mern-virid.vercel.app) · [Code](https://github.com/Engineer-anand/bookstore-mern-app) |
-| 🤖 **AI Conversational Chatbot** | Interactive AI chatbot web app featuring real-time conversational responses and message history management. | React, Node.js / FastAPI, REST APIs | [Demo](https://chat-bot-green-rho.vercel.app) · [Code](https://github.com/Engineer-anand/chat-bot) |
-| ⚡ **SIH Backend API** | Scalable cloud backend service built for Smart India Hackathon handling high-throughput REST APIs and database operations. | Node.js, Express, MongoDB, Vercel | [Demo](https://sih-backend-five.vercel.app) · [Code](https://github.com/Engineer-anand/SIH-backend) |
+| 🏢 **Multi-Tenant Task Platform** | Enterprise SaaS task management platform featuring multi-tenant organization isolation, RBAC, and team workflows. | MERN Stack, JWT Auth, REST API, Vercel | · [Code](https://github.com/Engineer-anand/Multi-Tenant-Task-Management-Platform) |
+| 📚 **Bookstore MERN App** | Full-stack e-commerce book catalog with CRUD inventory, secure authentication, and responsive UI. | MongoDB, Express.js, React, Node.js | · [Code](https://github.com/Engineer-anand/bookstore-mern-app) |
+| 🤖 **AI Conversational Chatbot** | Interactive AI chatbot web app featuring real-time conversational responses and message history management. | React, Node.js / FastAPI, REST APIs [Code](https://github.com/Engineer-anand/chat-bot) |
+
 
 
 <!-- Fill in the () with actual URLs as you build -->
