@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Hi+👋+I'm+Anand+Kushwaha;AI+Full+Stack+Developer;MERN+Stack+%2B+LangChain+%2B+RAG+Systems;Building+AI-Powered+Products+🚀" alt="Typing SVG" />
 
-### B.Tech CSE | AI + Full Stack Engineer | Open to Internships 2025
+### B.Tech CSE | AI + Full Stack Engineer | Open to Internships 2026
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/anand-kushwaha-5a9359413/">
@@ -65,15 +65,17 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-<!-- Add your projects here as you build them -->
-
 | Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🤖 **AI Writing Assistant** | Full-stack chatbot with OpenAI streaming | React, Node.js, MongoDB, OpenAI | [Demo]() · [Code]() |
-| 📄 **Chat with PDF** | RAG system — upload PDF, ask questions | Next.js, Pinecone, LangChain | [Demo]() · [Code]() |
-| 🎯 **AI Mock Interview** | AI-powered interview prep platform | MERN, GPT-4o, JWT Auth | [Demo]() · [Code]() |
+|---|---|---|---|
+| 🎬 **NexAnime Streaming** | Modern anime streaming platform with adaptive bitrate HLS streaming, Sub/Dub audio toggles, and client-side caching. | React 18, Vite, HLS.js, Axios, REST API | [Code](https://github.com/Engineer-anand/FULLANIMEWEBSITE) |
+| 🏢 **Multi-Tenant Task Platform** | Enterprise SaaS task management platform featuring multi-tenant organization isolation, RBAC, and team workflows. | MERN Stack, JWT Auth, REST API, Vercel | [Demo](https://multi-tenant-task-management-platform.vercel.app) · [Code](https://github.com/Engineer-anand/Multi-Tenant-Task-Management-Platform) |
+| 📚 **Bookstore MERN App** | Full-stack e-commerce book catalog with CRUD inventory, secure authentication, and responsive UI. | MongoDB, Express.js, React, Node.js | [Demo](https://book-store-mern-virid.vercel.app) · [Code](https://github.com/Engineer-anand/bookstore-mern-app) |
+| 🤖 **AI Conversational Chatbot** | Interactive AI chatbot web app featuring real-time conversational responses and message history management. | React, Node.js / FastAPI, REST APIs | [Demo](https://chat-bot-green-rho.vercel.app) · [Code](https://github.com/Engineer-anand/chat-bot) |
+| ⚡ **SIH Backend API** | Scalable cloud backend service built for Smart India Hackathon handling high-throughput REST APIs and database operations. | Node.js, Express, MongoDB, Vercel | [Demo](https://sih-backend-five.vercel.app) · [Code](https://github.com/Engineer-anand/SIH-backend) |
+
 
 <!-- Fill in the () with actual URLs as you build -->
 
