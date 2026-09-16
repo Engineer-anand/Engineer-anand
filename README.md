@@ -23,7 +23,7 @@
 ## 🧑‍💻 About Me
 
 ```
-🎓 B.Tech CSE — 3rd Year
+🎓 B.Tech CSE — Final Year
 📍 Lucknow, India
 💡 Building AI-powered full stack applications
 🔥 Stack: MERN + LangChain + RAG + OpenAI APIs
